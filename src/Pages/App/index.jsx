@@ -13,7 +13,7 @@ function App() {
     <div className="bg-red-100">
       <header className="App-header">
         <p>
-          <Home pageName="Home" />
+          <Home pageName="this is my Home" />
           <MyAccount pageName="MyAccount" />  
           <MyOrders pageName="MyOrders" />
           <MyOrder pageName="MyOrder" />
